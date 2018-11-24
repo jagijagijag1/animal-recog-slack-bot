@@ -19,3 +19,8 @@ var/
 # Serverless directories
 .serverless
 node_modules/
+
+### OSX ###
+*.DS_Store
+.AppleDouble
+.LSOverride
